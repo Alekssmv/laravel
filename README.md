@@ -1,3 +1,12 @@
+<p>1. Установи зависимости</p>
+<pre>composer install</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+<br>
+<p>2. Выполни</p>
+<pre>npm run build</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+<br>
+<p>3. Запуск миграций, сидирование</p>
+<pre>php artisan migrate:fresh --seed</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
